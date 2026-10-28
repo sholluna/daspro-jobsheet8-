@@ -42,5 +42,4 @@ public class NilaiKelompok25 {
         }
         sc.close();
     }
-    
 }
