@@ -9,7 +9,7 @@ public class Triangle25 {
         while (i <= n) {
             int j = 0;
             while (j < i) {
-                System.out.print("#");
+                System.out.print("*");
                 j++;
             }
             System.out.println();
@@ -19,7 +19,7 @@ public class Triangle25 {
         while (i >= 1) {
             int j = 0;
             while (j < i) {
-                System.out.print("#");
+                System.out.print("*");
                 j++;
             }
             System.out.println();
